@@ -6,9 +6,16 @@
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "chart.js": "^4.3.0",
+    "chartjs-chart-error-bars": "^4.2.1",
+    "lodash": "^4.17.21",
+    "plotly.js": "^2.24.2",
     "react": "^18.2.0",
+    "react-chartjs-2": "^5.2.0",
     "react-dom": "^18.2.0",
-    "react-scripts": "5.0.1",
+    "react-plotly.js": "^2.6.0",
+    "react-scripts": "^5.0.1",
+    "reaviz": "^14.9.1",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
@@ -41,15 +48,15 @@
   "devDependencies": {
     "@babel/preset-env": "^7.22.4",
     "@babel/preset-react": "^7.22.3",
-    "@storybook/addon-essentials": "^7.0.18",
+    "@storybook/addon-essentials": "^7.0.26",
     "@storybook/addon-interactions": "^7.0.18",
     "@storybook/addon-links": "^7.0.18",
     "@storybook/blocks": "^7.0.18",
-    "@storybook/react": "^7.0.18",
+    "@storybook/react": "^7.0.26",
     "@storybook/react-webpack5": "^7.0.18",
     "@storybook/testing-library": "^0.0.14-next.2",
     "eslint-plugin-storybook": "^0.6.12",
     "prop-types": "^15.8.1",
-    "storybook": "^7.0.18"
+    "storybook": "^7.0.26"
   }
 }
